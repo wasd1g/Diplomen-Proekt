@@ -11,8 +11,8 @@ export const metadata: Metadata = {
     icon: [
       {
         media: "(prefers-color-scheme: dark)",
-        url: "/logo.svg",
-        href: "/logo.svg",
+        url: "/pspCatLogo.svg",
+        href: "/pspCatLogo.svg",
       },
       {
         media: "(prefers-color-scheme: light)",
